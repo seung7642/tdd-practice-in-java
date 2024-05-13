@@ -1,3 +1,6 @@
 [submodule "java-racingcar"]
 	path = java-racingcar
 	url = https://github.com/seung7642/java-racingcar.git
+[submodule "java-lotto"]
+	path = java-lotto
+	url = https://github.com/seung7642/java-lotto.git
